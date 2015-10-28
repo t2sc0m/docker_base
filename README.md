@@ -1,7 +1,7 @@
 # tescom's Base Image
 ---
 ## adite/base
-tescom's base image
+![tescom](https://en.gravatar.com/userimage/96759029/aa4308f795041de37cc2fedf0d1071ca?size=128)
 
 ## IMAGE FROM
 ubuntu 14.04
@@ -15,6 +15,6 @@ ubuntu 14.04
 * vim
 
 ## USAGE
-<pre>
+```shell
 $ sudo docker run -i -t adite/base
-</pre>
+```

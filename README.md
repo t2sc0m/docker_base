@@ -16,5 +16,5 @@ ubuntu 14.04
 
 ## USAGE
 ```shell
-$ sudo docker run -i -t adite/base
+$ sudo docker run --rm -i -t adite/base
 ```
